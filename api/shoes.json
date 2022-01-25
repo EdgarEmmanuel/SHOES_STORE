@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "name": "HighSpeed Sneakers",
+      "mark": "balenciaga",
+      "image_path": "https://cdn.shopify.com/s/files/1/2358/2817/products/speed-trainer-white-black-424406_600x.png?v=1638814480",
+      "price": "456",
+      "miniatures": [
+        {
+          "url": "https://cdn-images.farfetch-contents.com/15/22/38/38/15223838_28121046_300.jpg"
+        },
+        {
+          "url": "https://cdn-images.farfetch-contents.com/16/11/50/14/16115014_30897575_300.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jago Sneaker",
+      "mark": "Nylon Mesh",
+      "image_path": "https://i1.adis.ws/i/tom_ford/J1100T-TOF001_U5006_OS_A?$pdp_hero_dsk$&bg=rgb(255,255,255)",
+      "price": "990",
+      "miniatures": [
+        {
+          "url": "https://i1.adis.ws/i/tom_ford/J1100T-VKR_RON_OS_A?$pdp_hero_dsk$&bg=rgb(255,255,255)"
+        },
+        {
+          "url": "https://i1.adis.ws/i/tom_ford/J1100T-TOF001_U4000_OS_A?$pdp_hero_dsk$&bg=rgb(255,255,255)"
+        }
+      ]
+    },
+    {
+      "name": "Air Max 270",
+      "mark": "Nike",
+      "image_path": "https://static.nike.com/a/images/t_default/s6dp2gck3oukxj9csz5y/air-max-270-mens-shoes-KkLcGR.png",
+      "price": "450",
+      "miniatures": [
+        {
+          "url": "https://i.ebayimg.com/images/g/SX0AAOSwbPlgsPW5/s-l300.jpg"
+        },
+        {
+          "url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1610306741-air-max-270-1610306711.jpg?crop=0.9996610169491525xw:1xh;center,top&resize=480%3A%2A"
+        }
+      ]
+    },
+    {
+      "name": "Air Max City Gear",
+      "mark": "Nike",
+      "image_path": "https://classic.cdn.media.amplience.net/i/hibbett/M0339_3050_right2?w=300&h=300&img404=404&v=1",
+      "price": "650",
+      "miniatures": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPAzExLMnMdfh6mtBiHAXtP65M-OaB_TKoRghSX42s_qYoSVFF3j3-jmcKwvxjHCPcGQ&usqp=CAU"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0jvoFBtVCH0dgc0r8Cn-xmmFSgsg8hc2CAPIKjIrTtjW8b0Dm87UujYY_7LarM8gFsA&usqp=CAU"
+        }
+      ]
+    }
+  ]
+}

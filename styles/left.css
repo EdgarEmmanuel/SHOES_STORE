@@ -1,0 +1,58 @@
+.left .filters{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 10px;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.09);
+}
+
+.left .filters .one_filter{
+    flex-basis: 100%;
+    padding: 0 20px;
+}
+
+.left .filters .one_filter form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.left .filters .one_filter form label{
+    flex-basis: 100%;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+
+
+/*========= start .price_range div =========*/
+
+.price_range .value_price_range{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+
+/* ============= .size div ============*/
+
+.left .filters .size form button {
+    font-weight: bold;
+    border: none;
+    border-radius: 27px;
+    margin: 5px 0;
+    cursor: pointer;
+    font-size: 23px;
+}
+
+.left .filters .size form {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.left .filters .size form label{
+    flex-basis: 5%;
+}

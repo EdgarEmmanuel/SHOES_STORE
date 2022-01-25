@@ -1,0 +1,115 @@
+main .right .shoes {
+    flex-basis: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+/*============ start .data div =============*/
+
+.shoes .data {
+    flex-basis: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.data .one_shoes{
+    padding: 10px 10px;
+    flex-basis: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.09);
+}
+
+.data .one_shoes .middle ,
+.data .one_shoes .top ,
+.data .one_shoes .bottom {
+    flex-basis: 100%;
+}
+
+.data .one_shoes .top h1 {
+    color: grey;
+    margin: 0;
+}
+
+.data .one_shoes .top h5{
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0;
+}
+
+.data .one_shoes .middle {
+    padding: 10px 10px;
+}
+
+.data .one_shoes .middle img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.data .one_shoes .bottom {
+    display: flex;
+    align-items: center;
+}
+
+.data .one_shoes .bottom .left ,
+.data .one_shoes .bottom .right {
+    flex-basis: 50%;
+}
+
+.data .one_shoes .bottom .left{
+    font-size: 25px;
+}
+
+.data .one_shoes .bottom .left h5{
+    margin: 0;
+    color: grey;
+    font-size: 23px;
+}
+
+.data .one_shoes .bottom .right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.data .one_shoes .bottom .right .one_image_min{
+    flex-basis: 45%;
+}
+
+.data .one_shoes .bottom .right .one_image_min img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+/*=========== start .top div ================*/
+
+main .right .shoes .top {
+    flex-basis: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+main .right .shoes .top .left ,
+main .right .shoes .top .right {
+    flex-basis: 40%;
+}
+
+main .right .shoes .top .right form select {
+    background: white;
+    font-weight: bold;
+    font-size: 23px;
+    border-radius: 27px;
+}
+
+main .right .shoes .top .right form select option {
+    background: white;
+}

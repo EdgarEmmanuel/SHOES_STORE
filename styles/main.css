@@ -1,0 +1,18 @@
+main{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+main .left {
+    flex-basis: 35%;
+    padding: 10px 10px;
+    position: sticky;
+    top: 0;
+}
+
+main .right {
+    flex-basis: 60%;
+}

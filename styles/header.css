@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+*{
+    font-family: 'Dongle', sans-serif;
+}
+
+
+header .navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+header  button{
+    background: none;
+    font-weight: bold;
+    font-size: 40px;
+    border: none;
+}
+
+header .search_bar .form{
+    padding: 10px;
+    border-radius: 27px;
+    border: 1px solid black;
+}
+
+header .search_bar input{
+    padding: 5px;
+    outline: none;
+    border: none;
+}
